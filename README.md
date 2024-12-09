@@ -8,7 +8,7 @@
 
 
 </p>
-<div size='20px'> I am Abdirizak Olol. Software Engineering Student :smile: 
+<div size='20px'> I am Abdirizak. Software Engineering Student :smile: 
 </div>
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
