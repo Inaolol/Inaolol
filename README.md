@@ -15,7 +15,7 @@
 I am Abdirizak, a passionate Software Engineering student with interests in:
 
 - 👨🏾‍💻 Currently developing an object detection model for aerial vehicles
-- 🌱 Learning Java OOP, Python, and C programming languages
+- 🌱 Learning Python
 - 🔭 Exploring machine learning frameworks and applications
 - 💡 Interested in computer vision and deep learning technologies
 
