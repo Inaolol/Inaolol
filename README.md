@@ -35,7 +35,7 @@ I am Abdirizak, a passionate Software Engineering student with interests in:
   <a href="https://github.com/Inaolol?tab=repositories&q=&type=&language=kaggle&sort="><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 </p>
 
-<! --
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
