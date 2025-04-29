@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="30px" height="30px"> Hello Fellow Developers!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=500&lines=Software+Engineering+Student;AI+Enthusiast;Object+Detection+Specialist;Python+Developer;Java+Learner;C+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=500&lines=Software+Engineering+Student;AI+Enthusiast;Object+Detection+Specialist;Python+Developer" alt="Typing SVG" />
 </div>
 
 <p align="center">
