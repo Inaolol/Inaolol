@@ -35,19 +35,20 @@ I am Abdirizak, a passionate Software Engineering student with interests in:
   <a href="https://github.com/Inaolol?tab=repositories&q=&type=&language=kaggle&sort="><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 </p>
 
+<! --
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Inaolol&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inaolol&layout=compact&theme=tokyonight" alt="Most Used Languages" height="165" />
 </p>
-
 ## 🔥 Streak Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Inaolol&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+-->
 ## 🤝 Connect with Me
 
 <p align="center">
