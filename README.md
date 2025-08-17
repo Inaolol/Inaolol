@@ -74,7 +74,7 @@ I am Abdirizak, a passionate Software Engineering student with interests in:
 ## 🎯 Current Focus Areas
 
 - 🔍 **Computer Vision**: Object detection and image recognition systems
-- 🌐 **Full-Stack Development**: Building robust web applications
+- 🌐 **Full-Stack Development**: Building web applications
 - 🤖 **Deep Learning**: Neural networks and advanced ML algorithms
 - ☁️ **Cloud Computing**: Deploying ML models and web applications
 
