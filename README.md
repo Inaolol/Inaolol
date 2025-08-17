@@ -20,15 +20,14 @@ I am Abdirizak, a passionate Software Engineering student with interests in:
 - 📊 Data science and predictive modeling
 
 ## 💻 Tech Stack
-
-<p align="center">
+p align="center">
   <a href="https://github.com/Inaolol?tab=repositories&q=&type=&language=python&sort="><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
   <a href="https://github.com/Inaolol?tab=repositories&q=&type=&language=php&sort="><img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
   <a href="https://github.com/Inaolol?tab=repositories&q=&type=&language=javascript&sort="><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
   <a href="https://github.com/Inaolol?tab=repositories&q=&type=&language=java&sort="><img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
   <a href="https://github.com/Inaolol?tab=repositories&q=&type=&language=c&sort="><img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/></a>
 </p>
-
+Web Development
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/></a>
@@ -37,7 +36,7 @@ I am Abdirizak, a passionate Software Engineering student with interests in:
   <a href="https://github.com/Inaolol?tab=repositories&q=&type=&language=css&sort="><img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>
 </p>
-
+Machine Learning & AI
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
@@ -48,16 +47,22 @@ I am Abdirizak, a passionate Software Engineering student with interests in:
   <a href="#"><img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-Matplotlib-11557c?style=for-the-badge" alt="Matplotlib"/></a>
 </p>
-
+Databases & Cloud
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
+</p>
+Cloud Platforms
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Azure%20ML-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure ML"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps"/></a>
 </p>
-
+Tools & Platforms
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
