@@ -21,7 +21,6 @@ I am Abdirizak, a passionate Software Engineering student with interests in:
 
 ## 💻 Tech Stack
 
-### Programming Languages
 <p align="center">
   <a href="https://github.com/Inaolol?tab=repositories&q=&type=&language=python&sort="><img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
   <a href="https://github.com/Inaolol?tab=repositories&q=&type=&language=php&sort="><img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
@@ -30,7 +29,6 @@ I am Abdirizak, a passionate Software Engineering student with interests in:
   <a href="https://github.com/Inaolol?tab=repositories&q=&type=&language=c&sort="><img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/></a>
 </p>
 
-### Web Development
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/></a>
@@ -40,7 +38,6 @@ I am Abdirizak, a passionate Software Engineering student with interests in:
   <a href="#"><img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>
 </p>
 
-### Machine Learning & AI
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
@@ -52,7 +49,6 @@ I am Abdirizak, a passionate Software Engineering student with interests in:
   <a href="#"><img src="https://img.shields.io/badge/-Matplotlib-11557c?style=for-the-badge" alt="Matplotlib"/></a>
 </p>
 
-### Databases & Cloud
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
